@@ -1,5 +1,5 @@
-### Hi there 👋
-
+[![Alexander's github stats](https://github-readme-stats.vercel.app/api?username=yalex1402&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yalex1402)](https://github.com/yalex1402/github-readme-stats)
 <!--
 **yalex1402/yalex1402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
